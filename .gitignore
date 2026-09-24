@@ -1,0 +1,8 @@
+.env
+/assets/videos
+# Ne prends pas en compte les fichiers .psd
+*.psd
+# Ne prends en compte QUE le fichier film.mp4
+!/assets/videos/film.mp4
+*.log
+*.tmp
